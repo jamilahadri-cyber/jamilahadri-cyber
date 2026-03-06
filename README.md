@@ -36,7 +36,7 @@ I publish a regular newsletter covering cyber security through a business and go
 
 ## 📁 Featured Projects
 
-### 🛡️ [Cyber Essentials Self-Assessment Questionnaire](./cyber-essentials-self-assessment)
+### 🛡️ [Cyber Essentials Self-Assessment Questionnaire](https://github.com/jamilahadri-cyber/cyber-essentials-self-assessment)
 
 A comprehensive Excel-based self-assessment tool built from the **NCSC Cyber Essentials Requirements for IT Infrastructure v3.2** (April 2025).
 
