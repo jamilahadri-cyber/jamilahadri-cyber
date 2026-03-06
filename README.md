@@ -1,5 +1,5 @@
 # Hi, I'm Jamila Hadri 👋
-### Senior Cyber Security & Strategy Leader | GRC | ISC2 CC Certified | ISO 27001 LI | MBA
+### Senior Cyber Security & Strategy Leader | GRC | ISC2 CC Certified | ISO 27001 LI Ongoing | MBA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jamilahadri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilahadri)
 [![Newsletter](https://img.shields.io/badge/📰_Newsletter-Cyber_Security_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/cyber-shield-7395432785445888000)
