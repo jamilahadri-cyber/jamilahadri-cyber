@@ -30,7 +30,7 @@ I publish a regular newsletter covering cyber security through a business and go
 - 🌐 Digital transformation and emerging threats
 - 📋 Practical, actionable guidance — no jargon
 
-👉 **[Follow the newsletter on LinkedIn](https://www.linkedin.com/in/jamilahadri)** ← *(replace with your direct newsletter URL)*
+👉 **[Follow the newsletter on LinkedIn](https://www.linkedin.com/newsletters/cyber-shield-7395432785445888000)**
 
 ---
 
